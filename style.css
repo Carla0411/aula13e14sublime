@@ -1,0 +1,19 @@
+strong {color: #FF0000;}
+em {color: #aa0202;}
+body{background: #FFCED1 ;
+}
+p {
+	text-aling: center;
+}
+
+h1 
+{text-align: center;
+border: 10px solid;
+}
+
+#missao{
+	font-size: 40px;
+}
+#banner{
+	width:100%;
+} 
